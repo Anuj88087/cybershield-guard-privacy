@@ -14,3 +14,5 @@ Read the full privacy policy here: [Privacy Policy for CyberShield Guard](https:
 ## Developer
 - **Name:** Anuj Srivastava
 - **Contact:** anujsri8808757@gmail.com[cite: 2, 12]
+
+- CyberShield Guard is a local-first Android threat defense app built with Kotlin that helps users spot suspicious links, lookalike domains, and risky APK sideloads in real time using Accessibility Service and System Overlay alerts—keeping sensitive data on-device without selling user information.   
